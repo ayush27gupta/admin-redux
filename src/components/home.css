@@ -1,0 +1,40 @@
+.home-container {
+  border: 5px inset blue;
+}
+
+.sub-home {
+  display: flex;
+
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+
+.head-home {
+  color: green;
+}
+
+.sub-head-home {
+  color: green;
+  font-size: large;
+  font-weight: 600;
+}
+.sub-head-home-genre {
+  color: green;
+  font-size: large;
+  font-weight: 600;
+}
+.sub-head-home-release {
+  color: green;
+  font-size: large;
+  font-weight: 600;
+}
+.sub-box-home {
+  width: 40%;
+
+  border: 5px inset green;
+}
+.img-home {
+  margin-top: 1rem;
+  border: 5px inset white;
+}

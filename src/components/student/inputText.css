@@ -1,0 +1,54 @@
+.text-input-parent1 {
+  display: flex;
+
+  margin-top: 5rem;
+  margin-left: 20rem;
+  width: 50vw;
+}
+
+.text-input-parent2 {
+  margin-top: 5rem;
+  margin-left: 20rem;
+  display: flex;
+  width: 50vw;
+}
+
+.text-input {
+  margin: 0px 80px;
+}
+
+.btn-edit {
+  margin-left: -2.8rem;
+  background-color: blue;
+  color: white;
+  height: 3rem;
+  width: 8rem;
+  font-weight: 900;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  cursor: pointer;
+}
+.btn-edit-back {
+  margin-left: 1.02rem;
+  background-color: blue;
+  color: white;
+  height: 3rem;
+  width: 8rem;
+  font-weight: 900;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  cursor: pointer;
+}
+
+.btn-edit:hover {
+  background-color: grey;
+  color: blue;
+}
+.btn-edit-back:hover {
+  background-color: grey;
+  color: blue;
+}
+
+.edit-container {
+  margin: 2rem;
+}

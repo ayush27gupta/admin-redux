@@ -1,0 +1,46 @@
+.table-container {
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  /* border: 2px inset red; */
+  width: 80%;
+}
+
+.change-link {
+  color: blue;
+}
+
+.t-data {
+  font-weight: 800;
+}
+
+.head-student {
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid red; */
+}
+
+.btn-student {
+  border-radius: 1rem;
+  height: 4rem;
+  width: 100%;
+  background-color: blue;
+  color: white;
+  font-weight: 700;
+  margin-top: 0.7rem;
+  margin-left: 2rem;
+}
+
+.btn-student:hover {
+  background-color: grey;
+  color: blue;
+}
+
+.change-link {
+  text-decoration: none;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
